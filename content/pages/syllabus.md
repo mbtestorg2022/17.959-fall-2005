@@ -17,19 +17,144 @@ Participants are required to report each week on one or more assigned works, cri
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Incentive Theories: Bernard, Clark and Wilson, Wilson |
-| 3 | Other Approaches: Selznick, March and Simon, Cyert and March, Downs, Guillen |
-| 4 | Broader Reviews: Scott, Wilson (Bureaucracy) |
-| 5 | Classic studies: Drucker, Sykes, Selznick (TVA), Kaufman |
-| 6 | Police: Wilson (Varieties of Police Behavior), Reiner, Wilson (the Investigators) |
-| 7 | Regulation: Wilson (Regulation), Roberts, Hsiao et al |
-| 8 | Interest Groups: Wilson (Political Organization) |
-| 9 | Non-profits: Drake et al, Zald |
-| 10 | Services: Builder, Ricks |
-| 11 | Navy: Sapolsky (Polaris), Thompson, Sapolsky (ONR) |
-| 12 | SOPs: Rocklin et al, Snook |
-| 13 | USAF: Michel (11 Days), Michel (Clashes), Worder, Builder (Icarus) |
-| 14 | Defense Politics: Halperin, Kanter, Lucas and Dawson, Hendrickson
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Incentive Theories: Bernard, Clark and Wilson, Wilson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Other Approaches: Selznick, March and Simon, Cyert and March, Downs, Guillen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Broader Reviews: Scott, Wilson (Bureaucracy)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Classic studies: Drucker, Sykes, Selznick (TVA), Kaufman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Police: Wilson (Varieties of Police Behavior), Reiner, Wilson (the Investigators)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation: Wilson (Regulation), Roberts, Hsiao et al
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Interest Groups: Wilson (Political Organization)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Non-profits: Drake et al, Zald
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Services: Builder, Ricks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Navy: Sapolsky (Polaris), Thompson, Sapolsky (ONR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+SOPs: Rocklin et al, Snook
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+USAF: Michel (11 Days), Michel (Clashes), Worder, Builder (Icarus)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Defense Politics: Halperin, Kanter, Lucas and Dawson, Hendrickson
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
